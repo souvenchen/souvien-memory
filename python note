@@ -1,0 +1,6 @@
+>>>print "Hello World"  //print a simple string
+Hello World
+>>>1+1  //Calculation 
+2
+>>>print "the total is %0.2f"%56.3598 //%0.2f 保留两位浮点数 0表示小数点前不限位数
+the total is 56.35
